@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**Hemraj-Adhikari/Hemraj-Adhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Hemraj Adhikari and I'm a It from Nepal</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a self-taught tech enthusiast from Nepal, currently based in Pune, India.
+I build clean, responsive WordPress websites and enjoy solving digital problems through design, marketing, and tech.
+
+<h2 align="left">About me</h2>
+
+ I’m passionate about:
+WordPress Web Design (Elementor & Gutenberg)
+Digital Marketing (SEO, SMM, Google Tools)
+Hardware & Networking
+Data Entry, Troubleshooting & Tech Support
+
+🔧 Skills & Tools:
+🌐 WordPress, Elementor, Spectra, Astra Theme
+🎨 Canva, Figma, Remove.bg
+📊 Yoast SEO, Google Analytics, Search Console
+🧰 HTML, CSS, Basic PHP
+🖥️ Hardware Setup, Windows OS, Networking
+📚 Currently Learning:
+Git & GitHub
+JavaScript Fundamentals
+Building my own portfolio website
+🌐 Connect with me:
+📧 hemrajadhikari2025@gmail.com
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
