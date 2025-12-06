@@ -4,7 +4,7 @@
 
 <p align="left">My name is Hemraj Adhikari and I'm a It from Nepal</p>
 
-I'm a self-taught tech enthusiast from Nepal, currently based in Pune, India.
+I'm a self-taught tech enthusiast from Kathmanu, Nepal.
 I build clean, responsive WordPress websites and enjoy solving digital problems through design, marketing, and tech.
 
 <h2 align="left">About me</h2>
