@@ -1,25 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey  What's up?</h1>
 
 ###
 
-<p align="left">My name is Hemraj Adhikari and I'm a It from Nepal</p>
+<p align="left">My name is Hemraj Adhikari and I'm from Nepal</p>
 
 I'm a self-taught tech enthusiast from Kathmanu, Nepal.
-I build clean, responsive WordPress websites and enjoy solving digital problems through design, marketing, and tech.
+I build clean, responsive websites/App and enjoy solving digital problems through design, marketing, and Coding.
 
 <h2 align="left">About me</h2>
 
  I’m passionate about:
 WordPress Web Design (Elementor & Gutenberg)
 Digital Marketing (SEO, SMM, Google Tools)
-Hardware & Networking
-Data Entry, Troubleshooting & Tech Support
+Hardware & Networking Troubleshooting & Tech Support
 
 🔧 Skills & Tools:
-🌐 WordPress, Elementor, Spectra, Astra Theme
-🎨 Canva, Figma, Remove.bg
+🌐 WordPress, Backend Frontend
+🎨 Canva, Figma Frontend
 📊 Yoast SEO, Google Analytics, Search Console
-🧰 HTML, CSS, Basic PHP
+🧰 HTML, CSS, Basic PHP JAva node Js Python 
 🖥️ Hardware Setup, Windows OS, Networking
 📚 Currently Learning:
 Git & GitHub
@@ -28,7 +27,7 @@ Building my own portfolio website
 🌐 Connect with me:
 📧 hemrajadhikari2025@gmail.com
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning DSA JAva Opps.<br>🎯 Goals: Pro.<br>🎲 Fun fact: ...</p>
 
 ###
 
