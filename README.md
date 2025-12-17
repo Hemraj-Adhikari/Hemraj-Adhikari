@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hemraj Adhikari and I'm from Nepal</p>
+<p align="left">My name is Hemraj Adhikari I'm from Nepal</p>
 
 I'm a self-taught tech enthusiast from Kathmanu, Nepal.
 I build clean, responsive websites/App and enjoy solving digital problems through design, marketing, and Coding.
