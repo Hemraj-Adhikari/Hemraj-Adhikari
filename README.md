@@ -10,9 +10,24 @@ I build clean, responsive websites/App and enjoy solving digital problems throug
 <h2 align="left">About me</h2>
 
  I’m passionate about:
-WordPress Web Design (Elementor & Gutenberg)
-Digital Marketing (SEO, SMM, Google Tools)
-Hardware & Networking Troubleshooting & Tech Support
+💻 IT Professional with 2+ years experience  
+🛠️ Skilled in troubleshooting, systems & basic development  
+
+## 🚀 Projects
+- 🔹 Student Management System
+- 🔹 IT Support Documentation
+- 🔹 Automation Scripts
+
+## ⚙️ Skills
+- C Programming
+- Networking Basics
+- System Support
+- Troubleshooting
+
+## 📈 Experience
+✔️ 2+ years in IT field  
+✔️ Handling real-world system issues  
+
 
 🔧 Skills & Tools:
 🌐 WordPress, Backend Frontend
