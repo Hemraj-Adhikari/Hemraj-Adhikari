@@ -59,7 +59,7 @@ I enjoy building clean, responsive websites and solving real-world digital probl
 
 ## 🌐 Connect with Me
 
-📧 Email: hemrajadhikari2025@gmail.com  
+📧 Email: hemrajadhikariy@gmail.com  
 
 ---
 
