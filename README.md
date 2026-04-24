@@ -1,51 +1,69 @@
-<h1 align="left">Hey  What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">
+I'm <strong>Hemraj Adhikari</strong> from Kathmandu, Nepal 🇳🇵
+</p>
 
-<p align="left">My name is Hemraj Adhikari I'm from Nepal</p>
+---
 
-I'm a self-taught tech enthusiast from Kathmanu, Nepal.
-I build clean, responsive websites/App and enjoy solving digital problems through design, marketing, and Coding.
+## 💡 About Me
 
-<h2 align="left">About me</h2>
-IT Professional with hands-on experience completing over 62 projects across diverse creative and digital domains — delivering modern, strategic, and visually compelling solutions aligned with client goals.
-C
-C++
-Java
-Python
-C# .NET 
- I’m passionate about:
-💻 IT Professional with 2+ years experience  
-🛠️ Skilled in troubleshooting, systems & basic development  
+I’m a self-taught IT professional and tech enthusiast with 2+ years of experience in the IT field.  
+I have successfully completed 60+ projects across various digital and creative domains.
+
+I enjoy building clean, responsive websites and solving real-world digital problems through design, development, and marketing strategies.
+
+---
 
 ## 🚀 Projects
-- 🔹 Student Management System
-- 🔹 IT Support Documentation
-- 🔹 Automation Scripts
+
+- 🔹 Student Management System  
+- 🔹 IT Support Documentation  
+- 🔹 Automation Scripts  
+
+---
 
 ## ⚙️ Skills
-- C Programming
-- Networking Basics
-- System Support
-- Troubleshooting
+
+- 💻 Programming: C, C++, Java, Python, C# (.NET)  
+- 🌐 Web: HTML, CSS, Basic JavaScript, PHP  
+- 🖥️ IT Support: Troubleshooting, System Support, Networking  
+- 🎨 Tools: WordPress, Canva, Figma  
+- 📊 Marketing: Yoast SEO, Google Analytics, Search Console  
+
+---
 
 ## 📈 Experience
+
 ✔️ 2+ years in IT field  
-✔️ Handling real-world system issues  
+✔️ Hands-on experience solving real-world system issues  
+✔️ Completed 60+ practical projects  
 
+---
 
-🔧 Skills & Tools:
-🌐 WordPress, Backend Frontend
-🎨 Canva, Figma Frontend
-📊 Yoast SEO, Google Analytics, Search Console
-🧰 HTML, CSS, Basic PHP JAva node Js Python 
-🖥️ Hardware Setup, Windows OS, Networking
-📚 Currently Learning:
-Git & GitHub
-JavaScript Fundamentals
-Building my own portfolio website
-🌐 Connect with me:
-📧 hemrajadhikari2025@gmail.com
+## 🧠 Currently Learning
+
+- Git & GitHub  
+- JavaScript Fundamentals  
+- Building Personal Portfolio Website  
+
+---
+
+## 🔧 Additional Skills
+
+- 🖥️ Hardware Setup  
+- 💿 Windows OS Installation & Maintenance  
+- 🌐 Basic Networking  
+
+---
+
+## 🌐 Connect with Me
+
+📧 Email: hemrajadhikari2025@gmail.com  
+
+---
+
+⭐ "Always learning, building, and improving in the world of technology."
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning DSA JAva Opps.<br>🎯 Goals: Pro.<br>🎲 Fun fact: ...</p>
 
