@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey What's up?</h1>
 
 <p align="left">
 I'm <strong>Hemraj Adhikari</strong> from Kathmandu, Nepal 🇳🇵
@@ -6,7 +6,7 @@ I'm <strong>Hemraj Adhikari</strong> from Kathmandu, Nepal 🇳🇵
 
 ---
 
-## 💡 About Me
+##  About Me
 
 I’m a self-taught IT professional and tech enthusiast with 2+ years of experience in the IT field.  
 I have successfully completed 60+ projects across various digital and creative domains.
@@ -15,25 +15,25 @@ I enjoy building clean, responsive websites and solving real-world digital probl
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-- 🔹 Student Management System  
-- 🔹 IT Support Documentation  
-- 🔹 Automation Scripts  
-
----
-
-## ⚙️ Skills
-
-- 💻 Programming: C, C++, Java, Python, C# (.NET)  
-- 🌐 Web: HTML, CSS, Basic JavaScript, PHP  
-- 🖥️ IT Support: Troubleshooting, System Support, Networking  
-- 🎨 Tools: WordPress, Canva, Figma  
-- 📊 Marketing: Yoast SEO, Google Analytics, Search Console  
+-  Student Management System  
+-  IT Support Documentation  
+-  Automation Scripts  
 
 ---
 
-## 📈 Experience
+##  Skills
+
+   Programming: C, C++, Java, Python, C# (.NET)  
+   Web: HTML, CSS, Basic JavaScript, PHP  
+   IT Support: Troubleshooting, System Support, Networking  
+   Tools: WordPress, Canva, Figma  
+   Marketing: Yoast SEO, Google Analytics, Search Console  
+
+---
+
+##  Experience
 
 ✔️ 2+ years in IT field  
 ✔️ Hands-on experience solving real-world system issues  
@@ -41,7 +41,7 @@ I enjoy building clean, responsive websites and solving real-world digital probl
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - Git & GitHub  
 - JavaScript Fundamentals  
@@ -49,23 +49,23 @@ I enjoy building clean, responsive websites and solving real-world digital probl
 
 ---
 
-## 🔧 Additional Skills
+##  Additional Skills
 
-- 🖥️ Hardware Setup  
-- 💿 Windows OS Installation & Maintenance  
-- 🌐 Basic Networking  
-
----
-
-## 🌐 Connect with Me
-
-📧 Email: hemrajadhikariy@gmail.com  
+-  Hardware Setup  
+-  Windows OS Installation & Maintenance  
+-  Basic Networking  
 
 ---
 
-⭐ "Always learning, building, and improving in the world of technology."
+##  Connect with Me
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning DSA JAva Opps.<br>🎯 Goals: Pro.<br>🎲 Fun fact: ...</p>
+ Email: hemrajadhikariy@gmail.com  
+
+---
+
+ "Always learning, building, and improving in the world of technology."
+
+<p align="left"> Creating bugs since ...<br>I'm currently learning DSA JAva Opps.<br>Goals: Pro.<br> Fun fact: ...</p>
 
 ###
 
