@@ -35,9 +35,9 @@ I enjoy building clean, responsive websites and solving real-world digital probl
 
 ##  Experience
 
-✔️ 2+ years in IT field  
-✔️ Hands-on experience solving real-world system issues  
-✔️ Completed 60+ practical projects  
+ 2+ years in IT field  
+ Hands-on experience solving real-world system issues  
+ Completed 60+ practical projects  
 
 ---
 
