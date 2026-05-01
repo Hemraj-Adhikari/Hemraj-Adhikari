@@ -59,7 +59,7 @@ I enjoy building clean, responsive websites and solving real-world digital probl
 
 ##  Connect with Me
 
- Email: hemrajadhikariy@gmail.com  
+ Email: hemrajhadhikari@gmail.com  
  Mobile: +9779865802093
 
 ---
