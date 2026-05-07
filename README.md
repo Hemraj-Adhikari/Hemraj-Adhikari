@@ -1,4 +1,4 @@
-<h1 align="left">Hey What's up?</h1>
+<h1 align="left">Hello Namaste</h1>
 
 <p align="left">
 I'm <strong>Hemraj Adhikari</strong> from Kathmandu, Nepal 🇳🇵
