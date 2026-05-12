@@ -1,7 +1,7 @@
 <h1 align="left">Hello Namaste</h1>
 
 <p align="left">
-I'm <strong>Hemraj Adhikari</strong> from Kathmandu, Nepal 🇳🇵
+I'm <strong>Hemraj Adhikari</strong> from Nepal 
 </p>
 
 ---
