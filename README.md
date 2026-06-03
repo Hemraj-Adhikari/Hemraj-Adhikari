@@ -57,11 +57,7 @@ Beyond professional work, I actively mentor **BIT and BCA students** across Nepa
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemraj-Adhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemraj-Adhikari&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
-
-<img src="https://nirzak-streak-stats.vercel.app?user=Hemraj-Adhikari&theme=tokyonight&hide_border=true" />
-
 </div>
-
 ---
 
 ##  Tech Stack & Skills
