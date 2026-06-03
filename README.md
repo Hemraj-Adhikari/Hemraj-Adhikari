@@ -59,7 +59,7 @@ Beyond professional work, I actively mentor **BIT and BCA students** across Nepa
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemraj-Adhikari&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hemraj-Adhikari&theme=tokyonight&hide_border=true)](https://github.com/Hemraj-Adhikari)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hemraj-Adhikari&theme=tokyonight&hide_border=true)](https://github.com/Hemraj-Adhikari)
 
 </div>
 
