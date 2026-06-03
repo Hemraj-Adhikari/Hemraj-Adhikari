@@ -171,15 +171,6 @@ Topics I help with:
 
 </div>
 
----
-
-<div align="center">
-
-** If you find my work useful, please star this repository!**
-
-*Made with  for Digital Nepal*
-
-</div>
 
 ###
 
@@ -206,3 +197,12 @@ Topics I help with:
 </div>
 
 ###
+---
+
+<div align="center">
+
+** If you find my work useful, please star this repository!**
+
+*Made with  for Digital Nepal*
+
+</div>
