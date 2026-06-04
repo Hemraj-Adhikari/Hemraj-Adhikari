@@ -20,7 +20,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```yaml
 Name        : Hemraj Adhikari
