@@ -141,15 +141,15 @@ Topics I help with:
 ##  Services
 
 ```
-┌─────────────────────────────────────────────┐
+┌───────────────────────────────────────────
 │   AWS Cloud Infrastructure & DevOps      │
 │   Linux & Windows System Administration  │
 │   Cybersecurity & SSL/TLS Management     │
 │   CRM & SaaS Platform Administration     │
 │   WordPress & Web Hosting Nepal          │
 │   BIT & BCA Student Mentoring            │
-│   IT Helpdesk & Remote Support (L1/L2)  │
-└─────────────────────────────────────────────┘
+│   IT Helpdesk & Remote Support (L1/L2)   │
+└──────────────────────────────────────────
 ```
 
 ---
