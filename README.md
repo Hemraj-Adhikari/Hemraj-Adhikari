@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hemraj-Adhikari/hemraj_portfolio/main/Hem-pic.png" width="120" style="border-radius:50%" alt="Hemraj Adhikari"/>
 
 # Hemraj Adhikari
 
