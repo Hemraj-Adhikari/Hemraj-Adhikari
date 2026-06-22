@@ -12,7 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hemraj-Adhikari&color=4f9cf9&style=for-the-badge&label=PROFILE+VIEWS)
 
-*IT Officer · Cloud Specialist · BIT & BCA Mentor · Freelancer · Kathmandu, Nepal 🇳🇵*
+*IT Officer · Cloud Specialist · Freelancer · Lifelong Learner · Kathmandu, Nepal 🇳🇵*
 
 </div>
 
@@ -59,7 +59,6 @@ Beyond professional work, I actively mentor **BIT and BCA students** across Nepa
 | 🔐 **Cybersecurity** | SSL/TLS, Firewall, Backup & Disaster Recovery |
 | 📊 **CRM & SaaS Admin** | Microsoft 365, Google Workspace, Custom CRM |
 | 🌐 **WordPress & Web Hosting** | 50+ sites, cPanel, DNS, performance optimization |
-| 🎓 **Student Mentoring** | BIT, BCA, BSc CSIT exam prep & career coaching |
 | 🆘 **IT Helpdesk (L1/L2)** | Remote & on-site support, troubleshooting |
 
 </div>
@@ -144,21 +143,17 @@ Beyond professional work, I actively mentor **BIT and BCA students** across Nepa
 
 ---
 
-## Mentoring — BIT & BCA Students, Nepal
-
-I actively guide students pursuing **BIT (Bagmati Pradesh University)** and **BCA (Tribhuvan University)** in Nepal.
+## Currently Learning & Building
 
 ```
-Topics I help with:
-  ├── C Language & Data Structures
-  ├── Digital Logic & Computer Architecture
-  ├── Foundation of IT
-  ├── Final Year Project Guidance
-  ├── IT Career Planning in Nepal
-  └── Internship & Job Preparation
+Focus Areas:
+  ├── DSA — Daily practice (Arrays, Trees, Graphs, DP)
+  ├── Coding — Strengthening multiple languages (C, C++, Java, Python)
+  ├── Coursera — Ongoing cloud & CS coursework
+  └── Projects — Building a growing portfolio of real-world apps
 ```
 
-📖 Free study resources: [hemrajadhikari.info.np](https://hemrajadhikari.info.np/)
+🌐 Portfolio: [hemrajadhikari.info.np](https://hemrajadhikari.info.np/)
 
 ---
 
