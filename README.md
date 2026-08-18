@@ -20,7 +20,7 @@
 
 ---
 
-### 👋 About Me
+###  About Me
 
 I'm a results-driven **Technology Leader** and **Full-Stack Engineer** with **4+ years** of experience engineering scalable digital solutions and managing complex IT infrastructure. I operate at the intersection of business strategy and technical execution — specializing in **Full-Stack Development**, **Cloud Computing**, **iOS Architecture**, and **Enterprise CRM Solutions**.
 
@@ -37,15 +37,15 @@ Response    : Within 24 Hours
 ```
 
 **Currently:**
-- 🏢 **Head of IT — Route 2 Uni International Group**, Kathmandu — leading IT strategy, cloud infrastructure, and enterprise CRM/SaaS platforms across the organization.
+-  **Head of IT — Route 2 Uni International Group**, Kathmandu — leading IT strategy, cloud infrastructure, and enterprise CRM/SaaS platforms across the organization.
 - 🇬🇧 **Project Manager — Dream Care Homes UK** (Newport, Wales) — directing the technical roadmap for a custom CRM, backend microservices, API integrations, and workflow automation.
-- 🍎 **iOS Developer Intern — Apple** (remote) — building and maintaining iOS applications.
+-  **iOS Developer Intern — Apple** (remote) — building and maintaining iOS applications.
 
 Beyond professional work, I actively mentor **BIT and BCA students** across Nepal — helping them with career planning, final-year projects, and breaking into the IT job market.
 
 ---
 
-### 📊 Stats at a Glance
+###  Stats at a Glance
 
 <div align="center">
 
@@ -63,30 +63,19 @@ Beyond professional work, I actively mentor **BIT and BCA students** across Nepa
 
 | Service | Details |
 |:---|:---|
-| 💻 **Full-Stack Development** | React, Node.js, RESTful APIs, PostgreSQL, MySQL, Firebase/Firestore |
-| 🍎 **iOS Development** | Swift, iOS app architecture, mobile API integrations |
-| ☁️ **AWS Cloud & DevOps** | EC2, S3, IAM, VPC, CloudWatch — setup & management |
-| 🖥️ **System Administration** | Linux, Windows Server, Active Directory, Group Policy |
-| 📊 **CRM & SaaS Architecture** | Custom CRM platforms, RBAC, workflow automation, Microsoft 365, Google Workspace |
-| 🔐 **Cybersecurity** | SSL/TLS, Firewall, MFA, Backup & Disaster Recovery |
-| 🌐 **WordPress & Web Hosting** | 50+ sites, cPanel, DNS, performance optimization |
+|  **Full-Stack Development** | React, Node.js, RESTful APIs, PostgreSQL, MySQL, Firebase/Firestore |
+|  **iOS Development** | Swift, iOS app architecture, mobile API integrations |
+|  **AWS Cloud & DevOps** | EC2, S3, IAM, VPC, CloudWatch — setup & management |
+|  **System Administration** | Linux, Windows Server, Active Directory, Group Policy |
+|  **CRM & SaaS Architecture** | Custom CRM platforms, RBAC, workflow automation, Microsoft 365, Google Workspace |
+|  **Cybersecurity** | SSL/TLS, Firewall, MFA, Backup & Disaster Recovery |
+|  **WordPress & Web Hosting** | 50+ sites, cPanel, DNS, performance optimization |
 
 </div>
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemraj-Adhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemraj-Adhikari&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-### 🧰 Tech Stack & Skills
+###  Tech Stack & Skills
 
 **Languages**
 
@@ -141,33 +130,33 @@ Beyond professional work, I actively mentor **BIT and BCA students** across Nepa
 
 | Certification | Issuer | Status |
 |:---|:---|:---:|
-| Microsoft Certified: Azure Fundamentals | Microsoft | ✅ Certified |
-| Google Workspace Administrator | Google | ✅ Certified |
-| Microsoft 365 Administrator | Microsoft | ✅ Certified |
-| Linux Administration | — | ✅ Certified |
-| cPanel & WHM Administration | cPanel | ✅ Certified |
-| Tools of the Trade: Linux and SQL | Google (Coursera) | ✅ Certified |
-| Connect and Protect: Networks & Network Security | Coursera | ✅ Certified |
-| Foundations of Cybersecurity | Google | ✅ Certified |
-| AWS Cloud Practitioner (CCP) | AWS | 🔄 In Progress |
+| Microsoft Certified: Azure Fundamentals | Microsoft |  Certified |
+| Google Workspace Administrator | Google |  Certified |
+| Microsoft 365 Administrator | Microsoft |  Certified |
+| Linux Administration | — |  Certified |
+| cPanel & WHM Administration | cPanel |  Certified |
+| Tools of the Trade: Linux and SQL | Google (Coursera) |  Certified |
+| Connect and Protect: Networks & Network Security | Coursera |  Certified |
+| Foundations of Cybersecurity | Google |  Certified |
+| AWS Cloud Practitioner (CCP) | AWS |  In Progress |
 
 *Plus 20+ additional certificates in AI, Data Analysis, Project Management & Security — see [full CV](https://drive.google.com/uc?export=download&id=1go-pYbCBa8QAMNbdCFx25zDR_qNL3-Wy).*
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Category | Status | Link |
 |:---|:---|:---:|:---:|
-| **Route 2 Uni CRM Portal** | Student pipeline, partner tracking & RBAC | 🟢 Live | [View Live](https://hemraj-adhikari.github.io/crmportal/) |
-| **Dream Care Homes CRM** | Node.js backend, microservices, automation | 🏢 Enterprise | — |
-| **R2U Staff Management System** | Internal HR/attendance tooling, RBAC | 🏢 Internal | — |
-| **TaskTrack** | Ops & reporting portal (Next.js + Firebase) | 🟢 Live | [View Live](https://trackrecorde.vercel.app/) |
-| **PCI / Mock Pre-CAS Interview Tool** | AI-assisted mock interview simulator | 🟢 Live | [View Live](https://mock-pre-cas-module.vercel.app/interview/) |
-| **KBM FM** | Radio streaming platform (AWS) | 🟢 Live | [kbmfm.com](https://kbmfm.com/) |
-| **Mega Loksewa** | Govt. exam prep platform (Laravel + LMS) | 🟢 Live | [megaloksewa.com](https://www.megaloksewa.com/) |
-| **Achham Online** | News & media portal | 🟢 Live | — |
-| **Sargam Sangeet Vidyalaya** | School website (WordPress) | 🟢 Live | [View Live](https://sargamsangeetvidyalay.in/) |
+| **Route 2 Uni CRM Portal** | Student pipeline, partner tracking & RBAC |  Live | [View Live](https://hemraj-adhikari.github.io/crmportal/) |
+| **Dream Care Homes CRM** | Node.js backend, microservices, automation | Enterprise | — |
+| **R2U Staff Management System** | Internal HR/attendance tooling, RBAC |  Internal | — |
+| **TaskTrack** | Ops & reporting portal (Next.js + Firebase) |  Live | [View Live](https://trackrecorde.vercel.app/) |
+| **PCI / Mock Pre-CAS Interview Tool** | AI-assisted mock interview simulator |  Live | [View Live](https://mock-pre-cas-module.vercel.app/interview/) |
+| **KBM FM** | Radio streaming platform (AWS) |  Live | [kbmfm.com](https://kbmfm.com/) |
+| **Mega Loksewa** | Govt. exam prep platform (Laravel + LMS) |  Live | [megaloksewa.com](https://www.megaloksewa.com/) |
+| **Achham Online** | News & media portal |  Live | — |
+| **Sargam Sangeet Vidyalaya** | School website (WordPress) |  Live | [View Live](https://sargamsangeetvidyalay.in/) |
 
 🔗 Full project list on my [portfolio](https://hemrajadhikari.info.np/projects.html)
 
@@ -185,20 +174,20 @@ Focus Areas:
 
 ---
 
-### 📬 Contact & Hire Me
+###  Contact & Hire Me
 
 <div align="center">
 
 | Platform | Link |
 |:---|:---|
-| 🌐 Portfolio | [hemrajadhikari.info.np](https://hemrajadhikari.info.np/) |
-| 📧 Email | [hemrajhadhikari@gmail.com](mailto:hemrajhadhikari@gmail.com) |
-| 💬 WhatsApp | [+977-9865802093](https://wa.me/9779865802093) |
-| 💼 Upwork | [upwork.com/freelancers/hemrajadhikari](https://www.upwork.com/freelancers/hemrajadhikari) |
-| 🔗 LinkedIn | [linkedin.com/in/hemrajadhikariy](https://www.linkedin.com/in/hemrajadhikariy) |
-| 📍 Location | Kathmandu, Bagmati Province, Nepal |
+|  Portfolio | [hemrajadhikari.info.np](https://hemrajadhikari.info.np/) |
+|  Email | [hemrajhadhikari@gmail.com](mailto:hemrajhadhikari@gmail.com) |
+|  WhatsApp | [+977-9865802093](https://wa.me/9779865802093) |
+|  Upwork | [upwork.com/freelancers/hemrajadhikari](https://www.upwork.com/freelancers/hemrajadhikari) |
+|  LinkedIn | [linkedin.com/in/hemrajadhikariy](https://www.linkedin.com/in/hemrajadhikariy) |
+|  Location | Kathmandu, Bagmati Province, Nepal |
 
-📍 **Available for Remote Work Worldwide**
+ **Available for Remote Work Worldwide**
 
 </div>
 
@@ -206,9 +195,9 @@ Focus Areas:
 
 <div align="center">
 
-⭐ **If my work helped you, consider starring this repo!**
+ **If my work helped you, consider starring this repo!**
 
-*Made with ❤️ in Kathmandu, Nepal 🇳🇵 — Building Digital Nepal*
+*Made with  in Kathmandu, Nepal 🇳🇵 — Building Digital Nepal*
 
 </div>
 
