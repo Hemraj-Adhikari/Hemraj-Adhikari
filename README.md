@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=200&section=header&text=Hemraj%20Adhikari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technology%20Leader%20%7C%20Full-Stack%20Engineer%20%7C%20IT%20Strategist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f9cf9,100:00599C&height=250&section=header&text=Hi%20there,%20I'm%20Hemraj!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Technology+Leader+%7C+Full-Stack+Engineer;AWS+Cloud+%26+IT+Infrastructure;iOS+Development+%7C+Enterprise+CRM;Building+Digital+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://hemrajadhikari.info.np/)
 
 **Technology Leader · Full-Stack Engineer · AWS Cloud Infrastructure Specialist**
 
