@@ -12,7 +12,6 @@ I build CRM platforms and internal tools with Next.js, NestJS and PostgreSQL, an
 
 - Rebuilding the Route2Uni CRM in 10 phases, moving it to Next.js, NestJS, PostgreSQL, Prisma, Redis and BullMQ on AWS. It is used daily by 50+ staff and 30+ university partners.
 - A compliance CRM for a UK care provider: right-to-work checks, visa sponsorship and DBS expiry tracking, documents and an audit log.
-- **Kaam Khoj**, a free app that helps daily-wage workers in Nepal find nearby jobs and call employers directly, without a middleman.
 
 ### Things I've built
 
