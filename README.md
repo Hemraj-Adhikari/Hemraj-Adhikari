@@ -1,68 +1,48 @@
-<div align="center">
+## Hi, I'm Hemraj Adhikari
 
-<img src="./assets/header.svg" width="100%" alt="Hemraj Adhikari"/>
+Full-stack developer and Head of IT at **Route2Uni International Group** in Kathmandu, Nepal.
 
-<p>
-  <a href="https://hemrajadhikari.info.np/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/hemrajadhikariy">LinkedIn</a> ·
-  <a href="https://www.upwork.com/freelancers/hemrajadhikari">Upwork</a> ·
-  <a href="mailto:hemrajhadhikari@gmail.com">Email</a>
-</p>
+I build CRM platforms and internal tools with Next.js, NestJS and PostgreSQL, and I run the AWS infrastructure they sit on. I also manage a CRM and staff-compliance portal for **Dreams Care Homes** in the UK as project manager and technical lead.
 
-</div>
+**Website:** [hemrajadhikari.info.np](https://hemrajadhikari.info.np) · **LinkedIn:** [in/hemrajadhikariy](https://www.linkedin.com/in/hemrajadhikariy/) · **Email:** hemrajhadhikari@gmail.com
 
 ---
 
-### About
+### What I'm working on
 
-I lead IT at **Route 2 Uni International Group** in Kathmandu and manage software delivery for **Dream Care Homes** in the UK. Most of my work sits between engineering and operations: I design and build web platforms, and I also run the infrastructure they live on.
+- Rebuilding the Route2Uni CRM in 10 phases, moving it to Next.js, NestJS, PostgreSQL, Prisma, Redis and BullMQ on AWS. It is used daily by 50+ staff and 30+ university partners.
+- A compliance CRM for a UK care provider: right-to-work checks, visa sponsorship and DBS expiry tracking, documents and an audit log.
+- **Kaam Khoj**, a free app that helps daily-wage workers in Nepal find nearby jobs and call employers directly, without a middleman.
 
-I started out in system administration, which shaped how I write software I care about how things behave in production, not just how they look in a demo. Today I spend my time on internal platforms, CRM systems, cloud infrastructure, and the occasional iOS app.
-
-- Building CRM and workflow platforms used daily by teams in Nepal and the UK
-- Running cloud and identity infrastructure (AWS, Microsoft 365, Google Workspace) for 50+ staff
-- Mentoring BIT and BCA students on practical software engineering
-
----
-
-### Selected work
+### Things I've built
 
 | Project | What it does | Stack |
-|:---|:---|:---|
-| [**Route 2 Uni CRM**] | Student pipeline, partner tracking and role-based access for an international education group | React, Firebase |
-| **Dream Care Homes CRM** | Enterprise CRM for a UK care provider, with service-based backend and workflow automation *(private)* | Node.js, REST, microservices |
-| [**Pre-CAS Interview Simulator**] | AI-assisted practice tool for UK student visa credibility interviews | Next.js, LLM APIs |
-| [**TaskTrack**] | Internal operations and daily reporting portal | Next.js, Firebase |
-| [**Mega Loksewa**] | Exam preparation platform with a full LMS for government service candidates | Laravel |
-| [**KBM FM**] | Online radio streaming platform | AWS |
+|---|---|---|
+| Route2Uni CRM | Student pipeline from enquiry to offer, CAS and visa | Next.js, NestJS, PostgreSQL, AWS |
+| Dreams Care Homes CRM | Staff compliance and audit log for a UK care agency | Next.js 14, TypeScript, Firebase |
+| Hajiri | HR and attendance with Bikram Sambat dates | Firebase, Firestore, RBAC |
+| TaskTrack | Daily work board, PDF reports and IT asset register | Next.js, Firebase, Vercel |
+| Mock Pre-CAS Interview | Timed questions, webcam recording and live transcript | JavaScript, Web Speech API |
+| Slotly | Booking app and web app for small businesses | Web, mobile |
+| Partner messaging | Bulk WhatsApp and email outreach to partner agents | Templates, contact lists |
 
-Alongside these I have delivered 50+ client websites and 100+ freelance engagements. More on my [portfolio](https://hemrajadhikari.info.np/projects.html).
+More on the [projects page](https://hemrajadhikari.info.np/projects.html).
 
----
+### Tools I use
 
-### Technical focus
+**Languages:** TypeScript, JavaScript, Python, Java, SQL, Swift
+**Frontend:** React, Next.js, Tailwind CSS
+**Backend:** Node.js, NestJS, FastAPI, Prisma, Redis, BullMQ, REST APIs
+**Data:** PostgreSQL, MySQL, MongoDB, Firebase
+**Cloud and DevOps:** AWS (EC2, S3, IAM, VPC, CloudWatch, Route 53), Docker, CI/CD, Vercel, Linux
+**IT:** Windows Server, Active Directory, Microsoft 365, Google Workspace
 
-| Area | Tools |
-|:---|:---|
-| Frontend | TypeScript, React, Next.js, Tailwind CSS |
-| Backend | Node.js, Express, REST APIs, Laravel |
-| Mobile | Swift, SwiftUI |
-| Data | PostgreSQL, MySQL, Firebase / Firestore |
-| Cloud & infrastructure | AWS (EC2, S3, IAM, VPC, CloudWatch), Docker, Nginx, Cloudflare, Linux |
-| Identity & IT operations | Microsoft 365, Google Workspace, Active Directory, Windows Server |
+### Certificates
 
----
+IBM Full Stack Software Developer · Google Project Management · Google Advanced Data Analytics · Google Cybersecurity · Google AI · IBM AI Developer · Google AI Essentials
 
-### Certifications
-
-Microsoft Azure Fundamentals · Microsoft 365 Administrator · Google Workspace Administrator · Google Foundations of Cybersecurity · Linux and SQL · Networks and Network Security · cPanel & WHM Administration · Linux Administration
-
-Currently preparing for **AWS Certified Cloud Practitioner**. Full list in my [CV](https://drive.google.com/uc?export=download&id=1go-pYbCBa8QAMNbdCFx25zDR_qNL3-Wy).
+All with Coursera verification links on my [certificates page](https://hemrajadhikari.info.np/credentials.html).
 
 ---
 
-### Working together
-
-I take on freelance projects, remote roles and technical consulting — mainly web platforms, internal tools, and cloud or IT infrastructure for growing teams.
-
-The best way to reach me is by [email](mailto:hemrajhadhikari@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/hemrajadhikariy). I'm based in Kathmandu (UTC+05:45) and usually reply within a day.
+Open to remote roles in full-stack, backend or platform engineering and IT leadership. The quickest way to reach me is email.
