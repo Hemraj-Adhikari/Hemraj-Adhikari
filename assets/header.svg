@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#4f9cf9"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 64px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+      .tag  { font: 500 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #dbeafe; letter-spacing: 1px; }
+      .fade { opacity: 0; animation: fadeIn 1.2s ease-out forwards; }
+      .fade2 { opacity: 0; animation: fadeIn 1.2s ease-out 0.4s forwards; }
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <path fill="url(#bg)" d="M0 0 H1200 V190 C1000 240 800 150 600 190 C400 230 200 150 0 195 Z"/>
+  <path fill="#4f9cf9" opacity="0.18" d="M0 205 C220 160 420 240 640 200 C860 160 1020 230 1200 200 V240 H0 Z"/>
+  <text class="name fade" x="600" y="105" text-anchor="middle">Hemraj Adhikari</text>
+  <text class="tag fade2" x="600" y="150" text-anchor="middle">Head of IT  •  Full-Stack Engineer  •  Cloud &amp; Infrastructure</text>
+</svg>

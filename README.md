@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:4f9cf9&height=220&section=header&text=Hemraj%20Adhikari&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Head%20of%20IT%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20Infrastructure&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Hemraj Adhikari — Head of IT, Full-Stack Engineer, Cloud & Infrastructure"/>
 
 <a href="https://hemrajadhikari.info.np/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=4F9CF9&center=true&vCenter=true&width=700&lines=I+build+secure%2C+scalable+systems+that+businesses+rely+on.;Head+of+IT+%40+Route+2+Uni+International+Group;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Swift;AWS+%E2%80%A2+Linux+%E2%80%A2+M365+%E2%80%A2+Google+Workspace;Enterprise+CRM+%26+SaaS+for+UK+%26+Nepal+clients" alt="Typing SVG"/>
@@ -15,7 +15,7 @@
   <a href="https://wa.me/9779865802093"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Hemraj-Adhikari&color=4f9cf9&style=flat-square&label=Profile+Views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Hemraj-Adhikari.Hemraj-Adhikari&left_text=Profile%20Views&left_color=555555&right_color=4f9cf9" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Hemraj-Adhikari?label=Followers&style=flat-square&color=4f9cf9&logo=github"/>
 <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Freelance%20%7C%20Consulting-2ea44f?style=flat-square"/>
 
@@ -284,4 +284,4 @@ Available worldwide for **freelance projects, remote roles and technical consult
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f9cf9,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
