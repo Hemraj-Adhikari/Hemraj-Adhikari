@@ -29,12 +29,12 @@ I started out in system administration, which shaped how I write software I care
 
 | Project | What it does | Stack |
 |:---|:---|:---|
-| [**Route 2 Uni CRM**](https://hemraj-adhikari.github.io/crmportal/) | Student pipeline, partner tracking and role-based access for an international education group | React, Firebase |
+| [**Route 2 Uni CRM**] | Student pipeline, partner tracking and role-based access for an international education group | React, Firebase |
 | **Dream Care Homes CRM** | Enterprise CRM for a UK care provider, with service-based backend and workflow automation *(private)* | Node.js, REST, microservices |
-| [**Pre-CAS Interview Simulator**](https://mock-pre-cas-module.vercel.app/interview/) | AI-assisted practice tool for UK student visa credibility interviews | Next.js, LLM APIs |
-| [**TaskTrack**](https://trackrecorde.vercel.app/) | Internal operations and daily reporting portal | Next.js, Firebase |
-| [**Mega Loksewa**](https://www.megaloksewa.com/) | Exam preparation platform with a full LMS for government service candidates | Laravel |
-| [**KBM FM**](https://kbmfm.com/) | Online radio streaming platform | AWS |
+| [**Pre-CAS Interview Simulator**] | AI-assisted practice tool for UK student visa credibility interviews | Next.js, LLM APIs |
+| [**TaskTrack**] | Internal operations and daily reporting portal | Next.js, Firebase |
+| [**Mega Loksewa**] | Exam preparation platform with a full LMS for government service candidates | Laravel |
+| [**KBM FM**] | Online radio streaming platform | AWS |
 
 Alongside these I have delivered 50+ client websites and 100+ freelance engagements. More on my [portfolio](https://hemrajadhikari.info.np/projects.html).
 
