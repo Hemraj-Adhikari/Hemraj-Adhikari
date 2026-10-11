@@ -17,7 +17,7 @@
 
 I lead IT at **Route 2 Uni International Group** in Kathmandu and manage software delivery for **Dream Care Homes** in the UK. Most of my work sits between engineering and operations: I design and build web platforms, and I also run the infrastructure they live on.
 
-I started out in system administration, which shaped how I write software — I care about how things behave in production, not just how they look in a demo. Today I spend my time on internal platforms, CRM systems, cloud infrastructure, and the occasional iOS app.
+I started out in system administration, which shaped how I write software I care about how things behave in production, not just how they look in a demo. Today I spend my time on internal platforms, CRM systems, cloud infrastructure, and the occasional iOS app.
 
 - Building CRM and workflow platforms used daily by teams in Nepal and the UK
 - Running cloud and identity infrastructure (AWS, Microsoft 365, Google Workspace) for 50+ staff
