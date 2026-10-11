@@ -28,6 +28,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Hemraj-Adhikari&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+
 I'm a **Technology Leader** and **Full-Stack Engineer** with **4+ years** of experience designing scalable software, running cloud infrastructure, and leading IT for growing organizations.
 
 I work where **business strategy meets engineering execution** — turning messy requirements into secure, maintainable systems that scale.
@@ -37,6 +39,8 @@ I work where **business strategy meets engineering execution** — turning messy
 - 🎓 **BIT** — Janamaitri Multiple Campus, Bagmati Pradesh University
 - 🧑‍🏫 Mentoring **BIT & BCA students** across Nepal
 - ⚡ Fun fact: started in sysadmin, now I architect the systems I used to maintain
+
+<br clear="right"/>
 
 ```ts
 const hemraj = {
@@ -170,8 +174,8 @@ const hemraj = {
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Hemraj-Adhikari&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemraj-Adhikari&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemraj-Adhikari&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img height="165" src="https://streak-stats.demolab.com?user=Hemraj-Adhikari&theme=tokyonight&hide_border=true" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hemraj-Adhikari&theme=tokyo-night&hide_border=true&area=true" />
 
