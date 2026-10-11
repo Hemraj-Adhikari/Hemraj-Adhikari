@@ -1,55 +1,72 @@
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f9cf9,100:00599C&height=250&section=header&text=Hi%20there,%20I'm%20Hemraj!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:4f9cf9&height=230&section=header&text=Hemraj%20Adhikari&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Technology%20Leader%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20Architect&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Technology+Leader+%7C+Full-Stack+Engineer;AWS+Cloud+%26+IT+Infrastructure;iOS+Development+%7C+Enterprise+CRM;Building+Digital+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://hemrajadhikari.info.np/)
+<a href="https://hemrajadhikari.info.np/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4F9CF9&center=true&vCenter=true&multiline=false&width=720&lines=Head+of+IT+%40+Route+2+Uni+International+Group;Full-Stack+Engineer+%7C+React+%E2%80%A2+Node.js+%E2%80%A2+Next.js;AWS+Cloud+%26+IT+Infrastructure+Specialist;Enterprise+CRM+%26+SaaS+Architect;iOS+Developer+%7C+Swift;Building+Digital+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG"/>
+</a>
 
-**Technology Leader · Full-Stack Engineer · AWS Cloud Infrastructure Specialist**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hemrajadhikari.info.np-4f9cf9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemrajadhikari.info.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hemrajadhikariy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemrajadhikariy)
-[![GitHub](https://img.shields.io/badge/GitHub-Hemraj--Adhikari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemraj-Adhikari)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/hemrajadhikari)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779865802093)
+<a href="https://hemrajadhikari.info.np/"><img src="https://img.shields.io/badge/Portfolio-hemrajadhikari.info.np-4f9cf9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hemrajadhikariy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/hemrajadhikari"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="mailto:hemrajhadhikari@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/9779865802093"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hemraj-Adhikari&color=4f9cf9&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
 
-*Full-Stack Engineer · Cloud & IT Strategist · iOS Developer · Kathmandu, Nepal 🇳🇵 · Open to remote work worldwide*
+<img src="https://komarev.com/ghpvc/?username=Hemraj-Adhikari&color=4f9cf9&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/Hemraj-Adhikari?label=Followers&style=flat-square&color=4f9cf9&logo=github"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-2ea44f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Response-%3C%2024h-orange?style=flat-square"/>
 
 </div>
 
 ---
 
-###  About Me
+## 👨‍💻 About Me
 
-I'm a results-driven **Technology Leader** and **Full-Stack Engineer** with **4+ years** of experience engineering scalable digital solutions and managing complex IT infrastructure. I operate at the intersection of business strategy and technical execution — specializing in **Full-Stack Development**, **Cloud Computing**, **iOS Architecture**, and **Enterprise CRM Solutions**.
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Hemraj-Adhikari&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 
-My career started in IT operations and system administration, and evolved into software development and technical project leadership. Today I bridge business requirements and practical software, making sure everything I build is secure, maintainable, and built to scale.
+I'm a **Technology Leader** and **Full-Stack Engineer** with **4+ years** of experience designing scalable software, running cloud infrastructure, and leading IT for growing organizations.
 
-```yaml
-Name        : Hemraj Adhikari
-Roles       : Head of IT @ Route2Uni  |  Project Manager @ Dream Care Homes UK  |  iOS Dev Intern @ Apple
-Location    : Kathmandu, Bagmati Province, Nepal
-Education   : BIT — Janamaitri Multiple Campus (Bagmati Pradesh University)
-Experience  : 4+ Years Professional IT & Software Engineering
-Status      : Available for Freelance & Remote Work
-Response    : Within 24 Hours
+I work where **business strategy meets engineering execution** — turning messy requirements into secure, maintainable systems that scale.
+
+- 🏢 **Head of IT** — Route 2 Uni International Group, Kathmandu
+- 🇬🇧 **Project Manager** — Dream Care Homes UK (Newport, Wales)
+- 🎓 **BIT** — Janamaitri Multiple Campus, Bagmati Pradesh University
+- 🧑‍🏫 Mentoring **BIT & BCA students** across Nepal
+- ⚡ Fun fact: started in sysadmin, now I architect the systems I used to maintain
+
+<br clear="right"/>
+
+```ts
+const hemraj = {
+  role:       ["Head of IT", "Project Manager", "Full-Stack Engineer"],
+  location:   "Kathmandu, Nepal 🇳🇵 (UTC+05:45)",
+  experience: "4+ years",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend:  ["Node.js", "REST APIs", "Microservices"],
+    mobile:   ["Swift", "iOS"],
+    data:     ["PostgreSQL", "MySQL", "Firebase / Firestore"],
+    cloud:    ["AWS (EC2, S3, IAM, VPC, CloudWatch)", "Cloudflare", "Docker"],
+    ops:      ["Linux", "Windows Server", "Active Directory", "M365", "Google Workspace"],
+  },
+  currentlyLearning: ["iOS Architecture", "AWS Cloud Practitioner", "Applied AI / Agents", "DSA"],
+  openTo: "Freelance · Remote · Consulting",
+};
 ```
-
-**Currently:**
--  **Head of IT — Route 2 Uni International Group**, Kathmandu — leading IT strategy, cloud infrastructure, and enterprise CRM/SaaS platforms across the organization.
-- 🇬🇧 **Project Manager — Dream Care Homes UK** (Newport, Wales) — directing the technical roadmap for a custom CRM, backend microservices, API integrations, and workflow automation.
--  **iOS Developer Intern — Apple** (remote) — building and maintaining iOS applications.
-
-Beyond professional work, I actively mentor **BIT and BCA students** across Nepal — helping them with career planning, final-year projects, and breaking into the IT job market.
 
 ---
 
-###  Stats at a Glance
+## 📊 Impact at a Glance
 
 <div align="center">
 
-| Experience | Projects Shipped | Websites Deployed | Freelance Engagements | Staff Supported |
+| 🗓️ Experience | 🚀 Projects Shipped | 🌐 Websites Deployed | 🤝 Freelance Engagements | 👥 Staff Supported |
 |:---:|:---:|:---:|:---:|:---:|
 | **4+ Years** | **11+** | **50+** | **100+** | **50+** |
 
@@ -57,148 +74,161 @@ Beyond professional work, I actively mentor **BIT and BCA students** across Nepa
 
 ---
 
-### 🛠️ What I Do
+## 🧰 Tech Stack
 
 <div align="center">
 
-| Service | Details |
-|:---|:---|
-|  **Full-Stack Development** | React, Node.js, RESTful APIs, PostgreSQL, MySQL, Firebase/Firestore |
-|  **iOS Development** | Swift, iOS app architecture, mobile API integrations |
-|  **AWS Cloud & DevOps** | EC2, S3, IAM, VPC, CloudWatch — setup & management |
-|  **System Administration** | Linux, Windows Server, Active Directory, Group Policy |
-|  **CRM & SaaS Architecture** | Custom CRM platforms, RBAC, workflow automation, Microsoft 365, Google Workspace |
-|  **Cybersecurity** | SSL/TLS, Firewall, MFA, Backup & Disaster Recovery |
-|  **WordPress & Web Hosting** | 50+ sites, cPanel, DNS, performance optimization |
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,swift,python,c,cpp,java,cs&theme=dark" />
+
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,apple&theme=dark" />
+
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql,firebase&theme=dark" />
+
+**Cloud, DevOps & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,linux,ubuntu,nginx,git,github,vercel&theme=dark" />
+
+**CMS & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=wordpress,vscode,postman,figma,notion&theme=dark" />
 
 </div>
 
 ---
 
-###  Tech Stack & Skills
+## 🛠️ What I Do
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-.NET-239120?style=flat-square&logo=c-sharp&logoColor=white)
+### 💻 Engineering
+- **Full-Stack Web** — React, Next.js, Node.js, REST APIs
+- **iOS Apps** — Swift, app architecture, API integration
+- **Enterprise CRM / SaaS** — RBAC, pipelines, workflow automation
+- **Backend Microservices** — scalable Node.js services
 
-**Frontend & Mobile**
+</td>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+### ☁️ Infrastructure & Security
+- **AWS** — EC2, S3, IAM, VPC, CloudWatch
+- **SysAdmin** — Linux, Windows Server, AD, Group Policy
+- **Security** — SSL/TLS, firewalls, MFA, backup & DR
+- **Hosting** — 50+ WordPress sites, cPanel/WHM, DNS
 
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-Architecture-6fda44?style=flat-square)
-
-**Cloud & SaaS**
-
-![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM%20%7C%20VPC%20%7C%20CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-Admin-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Admin-D83B01?style=flat-square&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**System Administration & Networking**
-
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20CentOS-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS%20%7C%20DHCP%20%7C%20LAN%20%7C%20WAN-Networking-2dd4a0?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS%20%7C%20Security-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Security & Tools**
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-SSL%20%7C%20TLS%20%7C%20MFA-red?style=flat-square&logo=shield&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-50%2B_sites-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-Hosting%20%7C%20DNS%20%7C%20SSL-FF6C2C?style=flat-square)
-![Git](https://img.shields.io/badge/Git_%26_GitHub-version_control-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Certifications & Courses
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Link |
+|:---|:---|:---|:---:|
+| 🎓 **Route 2 Uni CRM Portal** | Student pipeline, partner tracking & role-based access | React · Firebase · RBAC | [Live ↗](https://hemraj-adhikari.github.io/crmportal/) |
+| 🏥 **Dream Care Homes CRM** | Enterprise CRM with microservices & workflow automation | Node.js · REST · Microservices | 🔒 Enterprise |
+| 👥 **R2U Staff Management** | Internal HR, attendance & role management | Full-Stack · RBAC | 🔒 Internal |
+| ✅ **TaskTrack** | Operations & reporting portal | Next.js · Firebase | [Live ↗](https://trackrecorde.vercel.app/) |
+| 🤖 **Mock Pre-CAS Interview Tool** | AI-assisted UK visa interview simulator | Next.js · AI | [Live ↗](https://mock-pre-cas-module.vercel.app/interview/) |
+| 📻 **KBM FM** | Radio streaming platform | AWS · Streaming | [Live ↗](https://kbmfm.com/) |
+| 📚 **Mega Loksewa** | Government exam prep platform with LMS | Laravel · LMS | [Live ↗](https://www.megaloksewa.com/) |
+| 📰 **Achham Online** | News & media portal | WordPress | — |
+| 🎵 **Sargam Sangeet Vidyalaya** | School website | WordPress | [Live ↗](https://sargamsangeetvidyalay.in/) |
+
+<div align="center">
+
+📂 **[See all projects on my portfolio →](https://hemrajadhikari.info.np/projects.html)**
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+<br/>
 
 | Certification | Issuer | Status |
 |:---|:---|:---:|
-| Microsoft Certified: Azure Fundamentals | Microsoft |  Certified |
-| Google Workspace Administrator | Google |  Certified |
-| Microsoft 365 Administrator | Microsoft |  Certified |
-| Linux Administration | — |  Certified |
-| cPanel & WHM Administration | cPanel |  Certified |
-| Tools of the Trade: Linux and SQL | Google (Coursera) |  Certified |
-| Connect and Protect: Networks & Network Security | Coursera |  Certified |
-| Foundations of Cybersecurity | Google |  Certified |
-| AWS Cloud Practitioner (CCP) | AWS |  In Progress |
+| Azure Fundamentals | <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> | ✅ |
+| Microsoft 365 Administrator | <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> | ✅ |
+| Google Workspace Administrator | <img src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white"/> | ✅ |
+| Foundations of Cybersecurity | <img src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white"/> | ✅ |
+| Tools of the Trade: Linux and SQL | <img src="https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white"/> | ✅ |
+| Connect and Protect: Networks & Network Security | <img src="https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white"/> | ✅ |
+| cPanel & WHM Administration | <img src="https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white"/> | ✅ |
+| Linux Administration | <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> | ✅ |
+| AWS Certified Cloud Practitioner | <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> | ⏳ In Progress |
 
-*Plus 20+ additional certificates in AI, Data Analysis, Project Management & Security — see [full CV](https://drive.google.com/uc?export=download&id=1go-pYbCBa8QAMNbdCFx25zDR_qNL3-Wy).*
+➕ 20+ more in AI, Data Analysis, Project Management & Security — **[Download full CV](https://drive.google.com/uc?export=download&id=1go-pYbCBa8QAMNbdCFx25zDR_qNL3-Wy)**
 
----
-
-###  Featured Projects
-
-| Project | Category | Status | Link |
-|:---|:---|:---:|:---:|
-| **Route 2 Uni CRM Portal** | Student pipeline, partner tracking & RBAC |  Live | [View Live](https://hemraj-adhikari.github.io/crmportal/) |
-| **Dream Care Homes CRM** | Node.js backend, microservices, automation | Enterprise | — |
-| **R2U Staff Management System** | Internal HR/attendance tooling, RBAC |  Internal | — |
-| **TaskTrack** | Ops & reporting portal (Next.js + Firebase) |  Live | [View Live](https://trackrecorde.vercel.app/) |
-| **PCI / Mock Pre-CAS Interview Tool** | AI-assisted mock interview simulator |  Live | [View Live](https://mock-pre-cas-module.vercel.app/interview/) |
-| **KBM FM** | Radio streaming platform (AWS) |  Live | [kbmfm.com](https://kbmfm.com/) |
-| **Mega Loksewa** | Govt. exam prep platform (Laravel + LMS) |  Live | [megaloksewa.com](https://www.megaloksewa.com/) |
-| **Achham Online** | News & media portal |  Live | — |
-| **Sargam Sangeet Vidyalaya** | School website (WordPress) |  Live | [View Live](https://sargamsangeetvidyalay.in/) |
-
-🔗 Full project list on my [portfolio](https://hemrajadhikari.info.np/projects.html)
+</details>
 
 ---
 
-### 🎯 Currently Learning & Building
-
-```
-Focus Areas:
-  ├── iOS App Architecture & Swift — deepening mobile engineering
-  ├── AWS Cloud Practitioner — certification in progress
-  ├── AI/ML fundamentals — applied AI for content, data & agents
-  └── DSA — daily practice (Arrays, Trees, Graphs, DP)
-```
-
----
-
-###  Contact & Hire Me
+## 📈 GitHub Analytics
 
 <div align="center">
 
-| Platform | Link |
-|:---|:---|
-|  Portfolio | [hemrajadhikari.info.np](https://hemrajadhikari.info.np/) |
-|  Email | [hemrajhadhikari@gmail.com](mailto:hemrajhadhikari@gmail.com) |
-|  WhatsApp | [+977-9865802093](https://wa.me/9779865802093) |
-|  Upwork | [upwork.com/freelancers/hemrajadhikari](https://www.upwork.com/freelancers/hemrajadhikari) |
-|  LinkedIn | [linkedin.com/in/hemrajadhikariy](https://www.linkedin.com/in/hemrajadhikariy) |
-|  Location | Kathmandu, Bagmati Province, Nepal |
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemraj-Adhikari&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img height="165" src="https://streak-stats.demolab.com?user=Hemraj-Adhikari&theme=tokyonight&hide_border=true" />
 
- **Available for Remote Work Worldwide**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hemraj-Adhikari&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hemraj-Adhikari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
 ---
 
+## 🎯 Current Focus
+
+```diff
++ Deepening iOS app architecture with Swift & SwiftUI
++ Earning AWS Certified Cloud Practitioner
++ Building applied AI tools — agents, automation & content pipelines
++ Daily DSA practice — Arrays · Trees · Graphs · Dynamic Programming
++ Scaling enterprise CRM platforms for UK & Nepal clients
+```
+
+---
+
+## 🤝 Let's Work Together
+
 <div align="center">
 
- **If my work helped you, consider starring this repo!**
+I help startups and organizations **build software, move to the cloud, and run reliable IT**.<br/>
+Available for **freelance projects, remote roles, and technical consulting** worldwide.
 
-*Made with  in Kathmandu, Nepal 🇳🇵 — Building Digital Nepal*
+<br/>
+
+<a href="https://www.upwork.com/freelancers/hemrajadhikari"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="mailto:hemrajhadhikari@gmail.com"><img src="https://img.shields.io/badge/Email-hemrajhadhikari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/9779865802093"><img src="https://img.shields.io/badge/WhatsApp-%2B977--9865802093-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+---
+
+<!-- Snake animation: requires .github/workflows/snake.yml (included separately) -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemraj-Adhikari/Hemraj-Adhikari/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemraj-Adhikari/Hemraj-Adhikari/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Hemraj-Adhikari/Hemraj-Adhikari/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
+⭐ *If you find my work useful, a star on any repo is always appreciated!*
+
+**Made Hemraj Adhikari**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f9cf9,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
