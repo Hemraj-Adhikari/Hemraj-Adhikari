@@ -16,14 +16,6 @@ I build CRM platforms and internal tools with Next.js, NestJS and PostgreSQL, an
 ### Things I've built
 
 | Project | What it does | Stack |
-|---|---|---|
-| Route2Uni CRM | Student pipeline from enquiry to offer, CAS and visa | Next.js, NestJS, PostgreSQL, AWS |
-| Dreams Care Homes CRM | Staff compliance and audit log for a UK care agency | Next.js 14, TypeScript, Firebase |
-| Hajiri | HR and attendance with Bikram Sambat dates | Firebase, Firestore, RBAC |
-| TaskTrack | Daily work board, PDF reports and IT asset register | Next.js, Firebase, Vercel |
-| Mock Pre-CAS Interview | Timed questions, webcam recording and live transcript | JavaScript, Web Speech API |
-| Slotly | Booking app and web app for small businesses | Web, mobile |
-| Partner messaging | Bulk WhatsApp and email outreach to partner agents | Templates, contact lists |
 
 More on the [projects page](https://hemrajadhikari.info.np/projects.html).
 
