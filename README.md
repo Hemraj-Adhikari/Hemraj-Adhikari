@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Hemraj Adhikari – Head of IT, Full-Stack Engineer, Cloud & Infrastructure" width="100%">
-</p>
-
 ## Hi, I'm Hemraj Adhikari
 
 Full-stack developer and Head of IT at **Route2Uni International Group** in Kathmandu, Nepal.
