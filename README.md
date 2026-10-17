@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Hemraj Adhikari – Head of IT, Full-Stack Engineer, Cloud & Infrastructure" width="100%">
+</p>
+
 ## Hi, I'm Hemraj Adhikari
 
 Full-stack developer and Head of IT at **Route2Uni International Group** in Kathmandu, Nepal.
@@ -15,18 +19,16 @@ I build CRM platforms and internal tools with Next.js, NestJS and PostgreSQL, an
 
 ### Things I've built
 
-| Project | What it does | Stack |
-
-More on the [projects page](https://hemrajadhikari.info.np/projects.html).
+Case studies, screenshots and stacks for my projects are on the [projects page](https://hemrajadhikari.info.np/projects.html).
 
 ### Tools I use
 
-**Languages:** TypeScript, JavaScript, Python, Java, SQL, Swift
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, NestJS, FastAPI, Prisma, Redis, BullMQ, REST APIs
-**Data:** PostgreSQL, MySQL, MongoDB, Firebase
-**Cloud and DevOps:** AWS (EC2, S3, IAM, VPC, CloudWatch, Route 53), Docker, CI/CD, Vercel, Linux
-**IT:** Windows Server, Active Directory, Microsoft 365, Google Workspace
+- **Languages:** TypeScript, JavaScript, Python, Java, SQL, Swift
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, NestJS, FastAPI, Prisma, Redis, BullMQ, REST APIs
+- **Data:** PostgreSQL, MySQL, MongoDB, Firebase
+- **Cloud and DevOps:** AWS (EC2, S3, IAM, VPC, CloudWatch, Route 53), Docker, CI/CD, Vercel, Linux
+- **IT:** Windows Server, Active Directory, Microsoft 365, Google Workspace
 
 ### Certificates
 
